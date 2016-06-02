@@ -1,0 +1,7 @@
+## Interface: 60200
+## Author: veyh (github.com/veyh)
+## Title: Masque|cff36e5ff:|r|cff1784d1 Haze|r
+## Version: v1.0.0
+## Dependencies: Masque
+
+Masque_Haze.lua
